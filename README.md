@@ -6,7 +6,7 @@
   <h1>¡Hi! I am John Rojas</h1>
   <p><b>Aprendiz en Análisis y Desarrollo de Software (ADSO) | Desarrollador Front-End en Formación</b></p>
 
-  <img src="https://i.imgur.com/d96V8Kf.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br />
