@@ -27,7 +27,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnrojasuriza&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364" alt="Estadísticas de GitHub" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johnrojasuriza&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="Estadísticas de GitHub" />
   
   <br /><br />
   <p><i>"Construyendo proyectos y aprendiendo algo nuevo cada día."</i></p>
