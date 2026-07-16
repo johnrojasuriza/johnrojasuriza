@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364" />
   
-  <h1>¡Hi! I am John Rojas</h1>
+  <h1>¡Hi! am John Rojas</h1>
   <p><b>Apprentice in Software Analysis and Development (ADSO) | Front-End Developer in Training</b></p>
 </div>
 
@@ -12,7 +12,7 @@
 ###  About Me
 
 * **Software Development:** Apprentice at SENA (ADSO), focused on understanding the software development lifecycle and building scalable applications.
-* **Front-End Focus:** Passionate about clean and structured layouts using HTML5, CSS, and JavaScript.
+* **Front-End Focus:** Passionate about clean and structured layouts using HTML5, CSS3, and JavaScript.
 * **Continuous Learning:** Committed to the constant improvement of my logical and technical skills, applying best practices in layout design to every academic project.
 <br />
 
@@ -20,7 +20,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2&section=footer"/>
 </div>
 
-###  technology
+###  Technology
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -32,7 +32,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=2&section=footer"/>
 </div>
 
-###  tools
+###  Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
