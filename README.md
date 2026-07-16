@@ -49,4 +49,3 @@
   <img src="https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web_Best_Practices-2EA44F?style=for-the-badge" />
 </p>
-
