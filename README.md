@@ -26,9 +26,13 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnrojasuriza&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" alt="Estadísticas de GitHub" />
-  
-  <br /><br />
-  <p><i>"Construyendo proyectos y aprendiendo algo nuevo cada día."</i></p>
-</div>
+### 💻 Terminal
+
+```json
+{
+  "name": "John Alejandro Rojas Uriza",
+  "role": "ADSO Apprentice",
+  "location": "Girardot, Colombia",
+  "learning": ["HTML5", "CSS3", "JavaScript"],
+  "interests": ["Web Design", "Gaming"]
+}
