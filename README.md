@@ -36,6 +36,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 </p>
 
 <div align="center">
@@ -48,4 +49,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Responsive_Design-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web_Best_Practices-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=json&logoColor=white" />
 </p>
